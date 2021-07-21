@@ -149,7 +149,7 @@ h1{
 }
 
 /*-----------------------------------------------------------------------------*/
-#banner-wrapper
+#blankPage
 {
 	overflow: hidden;
 	padding: 50px 0px 50px 0px;
@@ -158,21 +158,17 @@ h1{
   color: #fff;
 }
 
-#banner p{
+#blank p{
 	letter-spacing: -1px;
 	font-size: 40px;
 	font-weight: 250;
 }
-#banner strong{
+#blank strong{
 	font-weight: 400;
-}
-
-#banner strong {
- font-weight: 400;
 }
 /*------------------------Footer section --------------------------*/
 
-#footer-wrapper{
+#footerPage{
   overflow: hidden;
   padding: 35px 70px;
   background: #444444;
