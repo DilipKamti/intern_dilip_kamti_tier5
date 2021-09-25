@@ -49,7 +49,7 @@ This tool generates upside-down text (sıɥʇ ǝʞıן).
 
 For this extension an example [link] (https://www.loom.com/share/9224a628170a481a8dbe8558bafb23cc) is here.
 
-For knowing more about [Chrome EXtension] (https://developer.chrome.com/docs/extensions/mv3/) here is documentation link
+For knowing more about (Chrome EXtension) (https://developer.chrome.com/docs/extensions/mv3/) here is documentation link
 
 
 
