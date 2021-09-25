@@ -1,0 +1,22 @@
+.wrapper {
+    width: 200px;
+    display: flex;
+    overflow-x: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    margin: 4px 4px;
+    padding: 2px 4px;
+    font-size: 20px;
+    border: none;
+}
+.btn:hover{
+    background: darkgray;
+    border-radius: 5px;
+}
